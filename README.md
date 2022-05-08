@@ -3,5 +3,6 @@
 ### Passo a passo
 
 - Acesse o arquivo e cole
-Preferences: Open Settings JSON (Ctrl + Shift + P)
+
+-- Preferences: Open Settings JSON (Ctrl + Shift + P)
 
